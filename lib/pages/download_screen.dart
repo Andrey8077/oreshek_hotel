@@ -161,7 +161,7 @@ class NextScreen extends StatelessWidget {
         title: const Text('Next Screen'),
       ),
       body: const Center(
-        child: Text('This is the next screen.'),
+        child: Text('Hello world'),
       ),
     );
   }
